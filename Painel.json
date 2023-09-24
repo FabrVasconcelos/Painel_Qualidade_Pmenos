@@ -1,0 +1,119 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "file:///C:/Repos/QA/Painel_Qualidade/IMG/PDV.png",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 99999
+    },    
+	{
+      "url": "https://paguemenos.visualstudio.com/PDV/_dashboards/dashboard/f67d5f56-2029-4ed5-90b6-bb749c4166df",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+	{
+      "url": "https://paguemenos.visualstudio.com/PDV/_dashboards/dashboard/c612cf1b-8af0-46e6-836e-61775ca09bf8",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    }, 	
+   {
+      "url": "https://paguemenos.visualstudio.com/PDV/_dashboards/dashboard/4e468f03-1d1d-40fb-a1b8-51cf563d229d",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },    
+    {
+      "url": "https://paguemenos.visualstudio.com/PDV/_dashboards/dashboard/e8c07302-c4b6-421f-9fb0-2fc6a178d012",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://paguemenos.visualstudio.com/PDV/_dashboards/dashboard/7775d664-2717-4a9d-96c5-58637460ce49",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://paguemenos.visualstudio.com/PDV/_dashboards/dashboard/7aebe87d-d9dd-4acf-86af-964d42ed6d28",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+	{
+      "url": "https://paguemenos.visualstudio.com/PDV/_dashboards/dashboard/1626e014-7335-4a2b-9c2f-2fbebc58059d",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "file:///C:/Repos/QA/Painel_Qualidade/IMG/PAINEL.png",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 99999
+    },    
+    {
+      "url": "https://paguemenos.visualstudio.com/Kanban%20Opera%C3%A7%C3%B5es/_dashboards/dashboard/04083eea-7bd3-48b3-8bf6-d847b39c46ea",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+	{
+      "url": "https://paguemenos.visualstudio.com/PainelVendas/_dashboards/dashboard/0c67e6aa-e2b4-4db8-bcae-422d54f13ed6",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "file:///C:/Repos/QA/Painel_Qualidade/IMG/FARMA.png",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 99999
+    },
+    {
+      "url": "https://paguemenos.visualstudio.com/VP%20Opera%C3%A7%C3%B5es/_dashboards/dashboard/8d14db9c-5a03-41ff-a41d-e0f117b0e73e",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },    
+    {
+      "url": "https://paguemenos.visualstudio.com/Farma/_dashboards/dashboard/c9bc45a5-534f-4b6e-9c99-11ba66ad6b9e",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "file:///C:/Repos/QA/Painel_Qualidade/IMG/PP.png",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 99999
+    },
+    {
+      "url": "https://paguemenos.visualstudio.com/PrevencaoPerdas/_dashboards/dashboard/66ac132a-964b-4e40-839a-4c48ba3739ff",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "file:///C:/Repos/QA/Painel_Qualidade/IMG/FINANCEIRO.png",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 99999
+    },
+    {
+      "url": "https://paguemenos.visualstudio.com/VP%20Financeiro%20RI/_dashboards/dashboard/e6ac191a-422b-4ec5-a71f-bfd384b667a3",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://paguemenos.visualstudio.com/VP%20Financeiro%20RI/_dashboards/dashboard/9dc8de73-6f43-41ae-be4a-baa5b361b6bc",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "file:///C:/Repos/QA/Painel_Qualidade/IMG/QA.png",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 99999
+    },
+    {
+      "url": "file:///C:/Repos/QA/Painel_Qualidade/IMG/%C3%ADndice.png",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 99999
+    },
+    {
+      "url": "file:///C:/Repos/QA/Painel_Qualidade/IMG/Funcion%C3%A1rioDoM%C3%AAsSetembro.png",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 99999
+    }
+  ]
+}
