@@ -101,6 +101,16 @@
       "tabReloadIntervalSeconds": 15
     },
     {
+      "url": "file:///C:/Repos/QA/Painel_Qualidade/IMG/COMERCIAL.png",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 99999
+    },
+    {
+      "url": "https://paguemenos.visualstudio.com/VP%20Comercial%20Supply/_dashboards/dashboard/0fb2d804-f2b9-4b40-988e-409eec921134",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
       "url": "file:///C:/Repos/QA/Painel_Qualidade/IMG/QA.png",
       "duration": 3,
       "tabReloadIntervalSeconds": 99999
